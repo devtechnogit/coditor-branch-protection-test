@@ -1,4 +1,2 @@
-# coditor-branch-protection-test
-Throwaway repo for testing whether a Coditor bot review counts toward GitHub branch protection required approvals. Safe to delete.
-
-Testing whether a Coditor bot review counts toward required approvals.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
