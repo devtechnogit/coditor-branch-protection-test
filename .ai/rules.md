@@ -16,5 +16,5 @@ None. The repository has no source code, package manifests or build tooling. It 
 No test, lint or build commands are defined.
 
 ## Conventions
-- Commit messages seen in history use a conventional prefix, e.g. `test: ...`.
-- Changes land on `main` through pull requests (e.g. `#1`).
+- Commit messages follow Conventional Commits (e.g. `feat:`, `fix:`, `docs:`, `test:`, `chore(scope):`). This is a project rule.
+- Changes land on `main` only through draft pull requests (e.g. `#1`); no direct pushes to `main`. This is a project rule.
