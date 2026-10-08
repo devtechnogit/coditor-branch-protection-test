@@ -3,6 +3,7 @@
 ## Structure
 ```
 .
+├── .markdownlint-cli2.yaml   # markdownlint-cli2 config (default rules, MD013 off)
 └── README.md   # describes the repo's purpose (branch-protection / bot-review test)
 ```
 
