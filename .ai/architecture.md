@@ -3,6 +3,7 @@
 ## Structure
 ```
 .
+├── LICENSE     # MIT license
 └── README.md   # describes the repo's purpose (branch-protection / bot-review test)
 ```
 
