@@ -16,5 +16,6 @@ None. The repository has no source code, package manifests or build tooling. It 
 No test or build commands are defined. Markdown is linted with markdownlint-cli2 using the root `.markdownlint-cli2.yaml` (e.g. `npx markdownlint-cli2`); no package.json or CI step runs it yet.
 
 ## Conventions
+- Editor settings live in the root `.editorconfig`: UTF-8, LF line endings, final newline, 2-space indent for Markdown.
 - Commit messages follow Conventional Commits (e.g. `feat:`, `fix:`, `docs:`, `test:`, `chore(scope):`). This is a project rule.
 - Changes land on `main` only through draft pull requests (e.g. `#1`); no direct pushes to `main`. This is a project rule.
