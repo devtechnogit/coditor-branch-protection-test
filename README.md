@@ -8,3 +8,7 @@ Testing whether a Coditor bot review counts toward required approvals.
 
 - Bu depoya değişiklikler yalnızca taslak (draft) pull request ile gelir; `main` dalına doğrudan push yapılmaz.
 - Commit mesajları [Conventional Commits](https://www.conventionalcommits.org/) biçimindedir, örn. `feat: ...`, `fix: ...`, `docs: ...`, `test: ...`, `chore(context): ...`.
+
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
