@@ -13,7 +13,7 @@ This is a throwaway repository (`coditor-branch-protection-test`). Its README sa
 None. The repository has no source code, package manifests or build tooling. It contains only `README.md`.
 
 ## Commands
-No test, lint or build commands are defined.
+No test or build commands are defined. Markdown is linted with markdownlint-cli2 using the root `.markdownlint-cli2.yaml` (e.g. `npx markdownlint-cli2`); no package.json or CI step runs it yet.
 
 ## Conventions
 - Commit messages follow Conventional Commits (e.g. `feat:`, `fix:`, `docs:`, `test:`, `chore(scope):`). This is a project rule.
