@@ -1,0 +1,10 @@
+# markdownlint-cli2 yapılandırması
+config:
+  default: true
+  MD013: false
+ignores:
+  - ".ai/**"
+  - "AGENTS.md"
+  - "CLAUDE.md"
+globs:
+  - "**/*.md"
