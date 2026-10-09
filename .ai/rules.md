@@ -7,7 +7,7 @@
 - Do not touch every context file on each change.
 
 ## Purpose
-This is a throwaway repository (`coditor-branch-protection-test`). Its README says it exists to test whether a Coditor bot review counts toward GitHub branch protection required approvals, and that it is safe to delete.
+This is a throwaway repository (`coditor-branch-protection-test`). It exists to test whether a Coditor bot review counts toward GitHub branch protection required approvals, and that it is safe to delete.
 
 ## Stack
 None. The repository has no source code, package manifests or build tooling. It contains only Markdown docs (`README.md`, `CONTRIBUTING.md`), `.markdownlint-cli2.yaml` and `.gitattributes` (`* text=auto eol=lf`: text files are normalized to LF).
